@@ -11,6 +11,7 @@ model Registration {
   id          String   @id @default(cuid())
   fullName    String
   email       String   @unique
+  company     String
   phoneNumber String?
   expertise   String
   message     String?
