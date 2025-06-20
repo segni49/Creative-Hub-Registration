@@ -91,7 +91,7 @@ Thinking of extending the project? Here are some ideas:
 
 ## 👋 Connect
 
-Crafted with care by **[Segni Abera](https://github.com/Segni49)
+Crafted with care by **[Segni Abera](https://github.com/Segni49) && [fetiya abdurehim]()
 If you find this project helpful, feel free to ⭐️ the repo or contribute!
 
 ---
