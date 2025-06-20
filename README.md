@@ -36,7 +36,7 @@ src/
 1.Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/creativehub-registration.git
+git clone https://github.com/segni49/Creative-Hub-Registration.git
 cd creativehub-registration
 ```
 
@@ -44,7 +44,6 @@ cd creativehub-registration
 
 ```bash
 npm install
-```
 
 3.Configure environment:
 
@@ -92,7 +91,7 @@ Thinking of extending the project? Here are some ideas:
 
 ## 👋 Connect
 
-Crafted with care by **[Segni Abera](https://github.com/your-username)**  
+Crafted with care by **[Segni Abera](https://github.com/Segni49)
 If you find this project helpful, feel free to ⭐️ the repo or contribute!
 
 ---
